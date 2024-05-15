@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@salesforce/salesforcedx-test-utils-vscode": "60.11.1",
-    "@salesforce/ts-sinon": "^1.0.0",
+    "@salesforce/ts-sinon": "^1.4.19",
     "@types/adm-zip": "^0.5.0",
     "@types/chai": "4.3.3",
     "@types/glob": "^7.2.0",
