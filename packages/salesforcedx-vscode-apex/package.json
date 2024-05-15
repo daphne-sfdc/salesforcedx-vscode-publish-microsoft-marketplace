@@ -333,7 +333,7 @@
   "description": "Provides code-editing features for the Apex programming language",
   "devDependencies": {
     "@salesforce/salesforcedx-test-utils-vscode": "60.11.1",
-    "@salesforce/ts-sinon": "1.4.0",
+    "@salesforce/ts-sinon": "1.4.19",
     "@types/chai": "4.3.3",
     "@types/mocha": "^5",
     "@types/node": "^18.11.9",
